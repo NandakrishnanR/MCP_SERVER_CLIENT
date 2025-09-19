@@ -1,3 +1,4 @@
+@right now this is a simple server client service, MCP is under construction on develop branch
 # Flight Booking System
 
 A simple flight booking system built using MCP (Model Context Protocol) Server-Client architecture.
